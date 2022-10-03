@@ -1,0 +1,7 @@
+.vscode
+.VS
+.env
+node_modules
+coverage
+.public
+*.log.lock
