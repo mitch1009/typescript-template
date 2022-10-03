@@ -9,6 +9,6 @@
         "outDir": "./.public"
     },
     "include": [
-      "ishop/**/*"
+      "src/**/*"
     ]
   }
